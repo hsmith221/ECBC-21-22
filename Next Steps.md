@@ -4,10 +4,10 @@
 
 2. *Compilation of cleaned EEBO csvs* into one large file or database to allow for specific querying and searches
 
-3. *Metaphorical language:* using specific keywords/phrases from reading primary sources to work backwards for identifying figures of speech/irony/sarcasm
+3. *Sentiment analysis:* for the paper, terms used in the case we focus on, other intersting words
 
-4. *Topic modeling:* once research question is solidified, we can look into creating a trained topic model to further explore texts of interest
+4. *Spatial visualization:* using geospatial or heat mapping techniques to visualize trade routes/trade amounts
 
-5. *Spatial visualization:* using geospatial or heat mapping techniques to visualize trade routes/trade amounts or printing networks
+5. *Metaphorical language:* using specific keywords/phrases from reading primary sources to work backwards for identifying figures of speech/irony/sarcasm
 
-6. *Relevant exploratory data analysis:* for the paper, whatever would be helpful/a meaningful contribution
+6. *Topic modeling:* once research question is solidified, we can look into creating a trained topic model to further explore texts of interest
