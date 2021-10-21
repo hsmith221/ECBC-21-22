@@ -8,6 +8,5 @@
 
 4. *Spatial visualization:* using geospatial or heat mapping techniques to visualize trade routes/trade amounts
 
+Possibly next semester
 5. *Metaphorical language:* using specific keywords/phrases from reading primary sources to work backwards for identifying figures of speech/irony/sarcasm
-
-6. *Topic modeling:* once research question is solidified, we can look into creating a trained topic model to further explore texts of interest
