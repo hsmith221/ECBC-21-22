@@ -1,5 +1,7 @@
-Form lexicons 
+Form lexicons: econonomic, legal, medical, political, metaphorical
 Write function to compile lexicons into single string separated by "|"
-Write function to sort through CSV files and combine them by subject 
-Understand sample sentimentAnal code
-Have function to produce visualizations of SentAnal output 
+Understand sample sentimentAnal & SATM_FULL_AWS code
+Update VADER dictionary using a theoretical framework (from Charlotte & Dan) 
+Write function to sort through CSV files and combine them by subject (time frame is 1688-1714) 
+Write sentiment analysis code 
+Have function to produce visualizations of SA output 
