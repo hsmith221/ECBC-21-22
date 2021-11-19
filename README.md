@@ -6,6 +6,7 @@ This repository contains the code and files of the data analysis portion of our 
 
 Common terms defined:
 - **EEBO**: Early English Books Online
+- **EIC**: English East India Company
 
 Navigating this repository:
 - **Monopoly Topic Modeling**: contains code and csv files for topic modeling for the word "monopoly" in the cleaned EEBO texts
