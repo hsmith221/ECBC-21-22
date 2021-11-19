@@ -9,6 +9,7 @@
 
 ## Monopoly Topic Modeling
 - *monopoly_word_clouds.ipynb:* This file comprises a function which creates a word cloud out of the text columns of a csv file. It has been run on the texts containing monopoly and East India Company.
+- *Topic_Model_Attempt_1.ipynb:* First attempt at LDA based topic modeling on EIC texts.
 - to add
 
 ## Update as added
