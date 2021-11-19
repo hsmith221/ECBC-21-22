@@ -2,6 +2,8 @@
 
 This repository contains the code and files of the data analysis portion of our Bass Connections team's year long research project exploring premodern ethical consumption
 
+**See File_Directory for descriptions of each file**
+
 Common terms defined:
 - **EEBO**: Early English Books Online
 
