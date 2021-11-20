@@ -5,6 +5,7 @@ This repository contains the code and files of the data analysis portion of our 
 **See File_Directory for descriptions of each file**
 
 Common terms defined:
+- **ECBC**: Ethical Consumption Before Capitalism
 - **EEBO**: Early English Books Online
 - **EIC**: English East India Company
 
