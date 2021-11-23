@@ -8,7 +8,7 @@
 - *Political:* politics related terms relevant to broader research
 
 ## Monopoly Topic Modeling
-- *monopoly_word_clouds.ipynb:* This file comprises a function which creates a word cloud out of the text columns of a csv file. It has been run on the texts containing monopoly and East India Company.
+- *Word_Cloud.ipynb:* This file comprises a function which creates a word cloud out of the text columns of a csv file. It has been run on the texts containing monopoly and East India Company.
 - *Topic_Model_Attempt_1.ipynb:* First attempt at LDA based topic modeling on EIC texts.
 - *filtering_eebo_restoration_monopoly.ipynb:* Filtering through all clean EEBO CSV files to write out texts from 1660-1714 into a separate local folder. From the folder of era-specific CSV files, write out a copy of ones which mention monopoly into a local folder called monopoly_eebo. 
 - *monopoly_frequency.ipynb*: Finding and sorting the term frequency of "monopoly" within each file of the monopoly_eebo folder. 
