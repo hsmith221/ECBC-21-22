@@ -1,6 +1,6 @@
 # Directory of Files and Description of Each File
 
-## Lexicons: https://docs.google.com/document/d/1G0PKAmOIRlD1yn4uk1YR68UuProNAem7p7h_IjFVbN0/edit 
+## [Lexicons:](https://docs.google.com/document/d/1G0PKAmOIRlD1yn4uk1YR68UuProNAem7p7h_IjFVbN0/edit)
 - *Economic:* economic related terms relevant to broader research
 - *Legal:* law related terms relevant to broader research
 - *Medical:* medicine related terms relevant to broader research
