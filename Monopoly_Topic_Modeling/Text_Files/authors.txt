@@ -1,88 +1,88 @@
 no author: 5512 
 charles king of england -: 149 
-fox george -: 129 
+    fox george -: 129 
 england and wales parliament: 124 
-patrick simon -: 98 
+    patrick simon -: 98 
 scotland privy council: 94 
 william king of england -: 88 
-baxter richard -: 87 
+    baxter richard -: 87 
 england and wales sovereign - charles : 86 
-stephens edward : 66 
-beverley thomas: 66 
+    stephens edward : 66 
+    beverley thomas: 66 
 ireland: 64 
-stafford richard -: 59 
+    stafford richard -: 59 
 england and wales parliament house of commons: 58 
-humfrey john -: 57 
+    humfrey john -: 57 
 r b -: 53 
-pelling edward : 53 
+    pelling edward : 53 
 j s: 52 
-oats titus -: 50 
-boyle robert -: 47 
+    oats titus -: 50 
+    boyle robert -: 47 
 england and wales court of quarter sessions of the peace london: 46 
 england and wales: 46 
 j : 45 
-shower john -: 44 
+    shower john -: 44 
 england and wales sovereign - james : 42 
 city of london england: 42 
-mather cotton -: 41 
-long thomas -: 41 
-millington edward : 40 
+    mather cotton -: 41 
+    long thomas -: 41 
+    millington edward : 40 
 person of quality: 39 
-leslie charles -: 37 
+    leslie charles -: 37 
  : 37 
-turner john b or : 36 
-burgess daniel -: 35 
+    turner john b or : 36 
+    burgess daniel -: 35 
 james king of england -: 34 
 england and wales sovereign - william : 34 
 a b: 34 
-burnet gilbert -: 33 
-vincent nathanael -: 32 
+    burnet gilbert -: 33 
+    vincent nathanael -: 32 
 scotland parliament: 32 
 r : 32 
-mather increase -: 32 
-maynwaringe everard -: 31 
-bug francis -: 31 
+    mather increase -: 32 
+    maynwaringe everard -: 31 
+    bug francis -: 31 
 r h -: 30 
-womock laurence -: 29 
+    womock laurence -: 29 
 scotland sovereign - charles : 29 
-penn william -: 28 
-kidder richard -: 28 
+    penn william -: 28  
+    kidder richard -: 28 
 company of scotland trading to africa and the indies: 28 
-willard samuel -: 27 
-smith samuel -: 27 
+    willard samuel -: 27 
+    smith samuel -: 27 
 ormonde james butler duke of -: 27 
-hickeringill edmund -: 27 
+    hickeringill edmund -: 27 
 church of england: 27 
-chamberlain hugh: 27 
-wagstaffe thomas -: 26 
+    chamberlain hugh: 27 
+    wagstaffe thomas -: 26 
 person of honour: 26 
 ireland lord lieutenant - ormonde: 26 
 england and wales court of over and terminer and gaol delivery london and middlesex: 26 
-sherwin william -: 25 
-rigge ambrose -: 25 
+    sherwin william -: 25 
+    rigge ambrose -: 25 
 city of london england court of common council: 25 
-bray thomas -: 25 
-bagshaw edward -: 25 
+    bray thomas -: 25   
+    bagshaw edward -: 25 
 trepidantium malleus: 24 
 scotland parliament committee of estates: 24 
 scotland: 24 
-nos christopher -: 24 
-nelson john -: 24 
+    nos christopher -: 24 
+    nelson john -: 24 
 j b: 24 
 england and wales sovereign - william and mary: 24 
-crisp stephen -: 24 
-clagett william -: 24 
-seller john fl -: 23 
+    crisp stephen -: 24 
+    clagett william -: 24 
+    seller john fl -: 23 
 n n: 23 
-horn john -: 23 
-cumber thomas -: 23 
-behn aphra -: 23 
-whitby daniel -: 22 
+    horn john -: 23 
+    cumber thomas -: 23 
+    behn aphra -: 23 
+    whitby daniel -: 22 
 t w: 22 
-meriton george -: 22 
-maggot richard : 22 
-jurieu pierre -: 22 
-gailhard j jean: 22 
+    meriton george -: 22 
+    maggot richard : 22 
+    jurieu pierre -: 22 
+    gailhard j jean: 22 
 brady nicholas -: 22 
 bailey william : 22 
 allen william : 22 
