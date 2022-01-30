@@ -1,5 +1,4 @@
-
-
+This file contains the immediate surrounding text around the word "monopoly" (or any of its variants) in texts containing both the EIC and monopoly. 
 
 1667
 an answer of the company of royal adventurers of england trading into africa to the petition and paper of certain heads and particulars thereunto relating and annexed exhibited to the honourable house of commons by sir paul painter ferdinand gorges henry batson benjamin skutt and thomas knights on the behalf of themselves and others concerned in his majesties plantations in america
@@ -381,7 +380,6 @@ proposals for a more beneficial and equal establishment of a regulated company t
 author: no author
 publisher: sn
 that of a joint-stock viz i the michief as well as the wrong of a monopoly will be prevented and every one will have freedom to trade as he ees fit 
-
 1696
 proposals for settling the east-india trade
 author: no author
@@ -753,9 +751,81 @@ in joint-stocks and particularly that to india all joint-stocks in trade are in 
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 1691
 companies in joynt-stock unnecessary and inconvenient free trade to india in a regulated company the interest of england discours' in a letter to a friend
 author: no author
 publisher: sn
 in joynt-stocks and particularly that to india all joynt-stocks in trade are in themselves a monopoly though some are more extensive than others as taking in more persons at the first as i have before made evident having given my thoughts of joynt-stocks as combinations and monopolies in general i shall now consider them in relation to the future management of the have for the keeping the trade to the indies and guinea in joynt-stocks the only monopolies they have it is evident that it will be infinitely more to the advantage of 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
