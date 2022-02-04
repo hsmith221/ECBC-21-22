@@ -22,7 +22,17 @@ stop_words.extend(['thus', 'thereof', 'thence', 'thee', 'therein',
                     'page','told','hold','sr','ditto','elf','therefore','de',
                     'ps','six','ent','mr','inits','ee','ay','mut','almost',
                     'concerning','ey','vol','near','since','always'])
-        
+
+monopoly = 'monopolie|monopolies|monopolion|monopolist|monopolium|monopolization|monopolize|monopolizer|monopolizes|monopoly|monopolye|monopolyes|monoply|monopolise|monopolising|monopolists|monopolizers|monopolised|monoopolies|monopolits|monopolers|monopoliing'
+
 def remove_stopwords(data):
     return [[word for word in simple_preprocess(str(doc))
             if word not in stop_words] for doc in data]
+
+def replace_monopoly(data):
+    m = monopoly.split('|')
+    i = 0
+    while i < len(data):
+        newdoc = [word if word not in m else 'monopoly' for word in data[i]]
+        data[i] = newdoc
+    return data
