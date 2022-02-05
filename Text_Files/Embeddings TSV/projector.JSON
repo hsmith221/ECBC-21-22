@@ -1,0 +1,13 @@
+{
+    "embeddings": [
+      {
+        "tensorName": "My tensor",
+        "tensorShape": [
+          1000,
+          50
+        ],
+        "tensorPath": "https://github.com/hsmith221/ECBC-21-22/blob/main/Text_Files/Embeddings%20TSV/publica_eic_monopoly_tensor.tsv",
+        "metadataPath": "https://github.com/hsmith221/ECBC-21-22/blob/main/Text_Files/Embeddings%20TSV/publica_eic_monopoly_metadata.tsv"
+      }
+    ]
+  }
