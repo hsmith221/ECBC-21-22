@@ -1,0 +1,173 @@
+1662
+no author
+('sn', 1)
+
+
+1664
+lawrence richard 
+('printed by jose ray for jose howes and are to be sold by awnsham churchill ', 2)
+
+
+1667
+royal african company
+('sn', 2)
+
+
+1672
+beaumont th cent
+('printed for william hope ', 1)
+callable robert 
+('printed by s simmons for r callable ', 1)
+clavell robert 
+('printed by s simmons for r clavel ', 1)
+hill joseph -
+('printed by thomas berry ', 2)
+seller john fl -
+('and are to be sold by him at the hermitage stairs in wapping and at his shop in the exchange alley near the royal exchange in london', 2)
+
+
+1676
+no author
+('sn', 3)
+
+
+1680
+england and wales parliament house of commons
+('printed for r baldwin', 1)
+
+
+1681
+east india company
+('sn', 2)
+
+
+1682
+pollexfen henry sir - argument of a learned counsel upon an action of the case brought by the east-india-company against mr thomas sands an interloper
+('printed for brabazon aylmer ', 2)
+
+
+1684
+davison thomas b or 
+('printed by jg for robert clavel ', 1)
+
+
+1688
+northleigh john -
+('printed and sold by the booksellers of london and westminster', 2)
+
+
+1689
+east india company
+('sn', 2)
+le visor michel -
+('printed for newman ', 2)
+no author
+('sn', 3)
+('printed for the author', 2)
+
+
+1690
+atwood william 
+('printed for the author', 1)
+
+
+1691
+england and wales privy council
+('sn', 2)
+no author
+('sn', 4)
+('printed for s eddowes under the royal exchange in cornhil', 2)
+
+
+1692
+no author
+('printed for rental taylor', 2)
+
+
+1693
+no author
+('sn', 2)
+('printed for richard baldwin near oxford arms inn warwick lane', 2)
+warwick philip sir -
+('printed for samuel lowndes', 2)
+
+
+1694
+chamberlain hugh
+('printed by ts and sold by rental taylor near stationers-hall', 2)
+mackworth humphrey sir -
+('printed by tu for tho beaver ', 2)
+
+
+1695
+briscoe john fl 
+('printed for w chandeler and t scott ', 2)
+miller william
+('sn', 2)
+no author
+('sn', 2)
+('printed for sam briscoe at the corner of charles-street in russel-street covent-garden', 2)
+('printed for john whitlock near stationers-hall', 1)
+verax philanax
+("printed at london and re-printed at edinburgh by the heirs and successors of andrew anderson printer to the king's most excellent majesty", 2)
+
+
+1696
+asgill john -
+('printed and sold by the booksellers of london and westminster', 1)
+cary john 
+('sn', 2)
+no author
+('printed and are to be sold by e whitlock near stationers-hall', 2)
+ovington j john -
+('printed for jacob tonson ', 2)
+pollexfen henry sir -
+('printed for b aylmer ', 2)
+pollexfen henry sir - argument of a learned counsel upon an action of the case brought by the east-india-company
+('printed for john baker near the kings-arms in little britain', 1)
+('printed for john baker near the kings-armes in little britain', 1)
+seller john fl -
+('printed by job and john how for john gwillim ', 1)
+
+
+1697
+france conseil 'etat
+('printed by j bradford ', 1)
+no author
+('sn', 2)
+pollexfen john b ca 
+('sn', 2)
+t s thomas smith
+('printed by j bradford ', 1)
+
+
+1698
+dellon gabriel b 
+('printed for browne a roper and t leigh ', 1)
+dellon gabriel b trait des maladies particulieres axe pays orientaux et dans la route et de leurs remedes english
+('printed for browne a roper and t leigh ', 1)
+n n
+('sn', 2)
+no author
+('sn', 7)
+('printed and sold by john nutt near stationers-hall', 2)
+
+
+1699
+cary john 
+('prnted for e baldwin in warwick-lane', 2)
+puckle james -
+('printed for sam crouch at the corner of popes-head-alley over-against the royal exchange in cornhill', 1)
+
+
+1700
+cary john
+('sn', 2)
+england court of king's bench
+("printed by the assigns of rich and adieu atkins esqrs for charles harper at the flower de luce over-against st dunstan's church in fleetstreet", 2)
+huet pierre-daniel -
+('printed for j sackfield g davis and sold by t warner ', 2)
+no author
+('printed by k astwood for the author', 2)
+
+
