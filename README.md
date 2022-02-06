@@ -10,5 +10,7 @@ Common terms defined:
 - **EIC**: English East India Company
 
 Navigating this repository:
-- **Monopoly Topic Modeling**: Contains code and csv files for topic modeling for the word "monopoly" in the cleaned EEBO texts
+- **Code_Files**: Contains code for text filtering, pattern finding, topic modeling, word embedding, and sentiment analysis 
+- **Image_Files**: Contains visualizations such as scatter graphs, word clouds, and bar graphs
+- **Text_Files**: Contains files of lexicons, TSV files of word embedding vectors and metadata, titles, authors, publishers, and important output from algorithms
 - **File_Directory**: Breaks down each file in the repo.
