@@ -2,7 +2,11 @@ from gensim.utils import simple_preprocess
 from nltk.corpus import stopwords
 
 stop_words = stopwords.words('english')
-stop_words.extend(['thus', 'thereof', 'thence', 'thee', 'therein', 
+
+monopoly = 'monopolie|monopolies|monopolion|monopolist|monopolium|monopolization|monopolize|monopolizer|monopolizes|monopoly|monopolye|monopolyes|monoply|monopolise|monopolising|monopolists|monopolizers|monopolised|monoopolies|monopolits|monopolers|monopoliing'
+
+def remove_stopwords(data):
+    stop_words.extend(['thus', 'thereof', 'thence', 'thee', 'therein', 
                     'wherein', 'whereby', 'whereas', 'also', 'us', 'upon', 
                     'would', 'within', 'indeed', 'become', 'viz', 'per', 'anno', 
                     'whilst', 'thoe', 'ome', 'uch', 'said', 'shall', 'hath',
@@ -23,11 +27,8 @@ stop_words.extend(['thus', 'thereof', 'thence', 'thee', 'therein',
                     'ps','six','ent','mr','inits','ee','ay','mut','almost',
                     'concerning','ey','vol','near','since','always','sed',
                     'hereby','otherwise','otherwie','rrying','inasmuch','includes',
-                    'char','usto','eems','inamuch'])
-
-monopoly = 'monopolie|monopolies|monopolion|monopolist|monopolium|monopolization|monopolize|monopolizer|monopolizes|monopoly|monopolye|monopolyes|monoply|monopolise|monopolising|monopolists|monopolizers|monopolised|monoopolies|monopolits|monopolers|monopoliing'
-
-def remove_stopwords(data):
+                    'char','usto','eems','inamuch','thereby'])
+    
     return [[word for word in simple_preprocess(str(doc))
             if word not in stop_words] for doc in data]
 
