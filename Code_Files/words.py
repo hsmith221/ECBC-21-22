@@ -21,7 +21,9 @@ stop_words.extend(['thus', 'thereof', 'thence', 'thee', 'therein',
                     'againt','second','dr','though','goes','non','equire',
                     'page','told','hold','sr','ditto','elf','therefore','de',
                     'ps','six','ent','mr','inits','ee','ay','mut','almost',
-                    'concerning','ey','vol','near','since','always'])
+                    'concerning','ey','vol','near','since','always','sed',
+                    'hereby','otherwise','otherwie','rrying','inasmuch','includes',
+                    'char','usto','eems','inamuch'])
 
 monopoly = 'monopolie|monopolies|monopolion|monopolist|monopolium|monopolization|monopolize|monopolizer|monopolizes|monopoly|monopolye|monopolyes|monoply|monopolise|monopolising|monopolists|monopolizers|monopolised|monoopolies|monopolits|monopolers|monopoliing'
 
