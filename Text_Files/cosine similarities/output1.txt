@@ -1,0 +1,231 @@
+Cosine similarity between body_politic and monopoly:  0.8977086
+Cosine similarity between body_politic and monopolies:  0.92482644
+Cosine similarity between body_politic and monopolise:  0.86077607
+Cosine similarity between body_politic and monopolising:  0.73439157
+Cosine similarity between body_politic and monopolizers:  0.7628533
+Cosine similarity between body_politic and monopolised:  0.87706834
+Cosine similarity between body_politic and corruption:  0.6882767
+Cosine similarity between body_politic and corrupt:  0.768716
+Cosine similarity between body_politic and corrupting:  0.8217502
+
+
+Cosine similarity between body_politick and monopoly:  0.79231167
+Cosine similarity between body_politick and monopolies:  0.8281901
+Cosine similarity between body_politick and monopolise:  0.9774324
+Cosine similarity between body_politick and monopolising:  0.93296224
+Cosine similarity between body_politick and monopolizers:  0.97893244
+Cosine similarity between body_politick and monopolised:  0.9418509
+Cosine similarity between body_politick and corruption:  0.86585385
+Cosine similarity between body_politick and corrupt:  0.9586443
+Cosine similarity between body_politick and corrupting:  0.9881547
+
+
+Cosine similarity between public_utility and monopoly:  0.80939007
+Cosine similarity between public_utility and monopolies:  0.85832477
+Cosine similarity between public_utility and monopolise:  0.96104383
+Cosine similarity between public_utility and monopolising:  0.9113568
+Cosine similarity between public_utility and monopolizers:  0.9658188
+Cosine similarity between public_utility and monopolised:  0.9362623
+Cosine similarity between public_utility and corruption:  0.8846669
+Cosine similarity between public_utility and corrupt:  0.9706364
+Cosine similarity between public_utility and corrupting:  0.9890693
+
+
+Cosine similarity between public_affairs and monopoly:  0.83223236
+Cosine similarity between public_affairs and monopolies:  0.82603544
+Cosine similarity between public_affairs and monopolise:  0.94685894
+Cosine similarity between public_affairs and monopolising:  0.9222555
+Cosine similarity between public_affairs and monopolizers:  0.92529047
+Cosine similarity between public_affairs and monopolised:  0.96003366
+Cosine similarity between public_affairs and corruption:  0.8265508
+Cosine similarity between public_affairs and corrupt:  0.8987743
+Cosine similarity between public_affairs and corrupting:  0.9434441
+
+
+Cosine similarity between wicked and monopoly:  0.6340239
+Cosine similarity between wicked and monopolies:  0.7642837
+Cosine similarity between wicked and monopolise:  0.81402254
+Cosine similarity between wicked and monopolising:  0.706408
+Cosine similarity between wicked and monopolizers:  0.84011346
+Cosine similarity between wicked and monopolised:  0.7632999
+Cosine similarity between wicked and corruption:  0.82477075
+Cosine similarity between wicked and corrupt:  0.9203433
+Cosine similarity between wicked and corrupting:  0.8853132
+
+
+Cosine similarity between illegal and monopoly:  0.8070621
+Cosine similarity between illegal and monopolies:  0.85513735
+Cosine similarity between illegal and monopolise:  0.8452513
+Cosine similarity between illegal and monopolising:  0.613875
+Cosine similarity between illegal and monopolizers:  0.73265934
+Cosine similarity between illegal and monopolised:  0.8306944
+Cosine similarity between illegal and corruption:  0.57502955
+Cosine similarity between illegal and corrupt:  0.7560125
+Cosine similarity between illegal and corrupting:  0.8002586
+
+
+Cosine similarity between engrossing and monopoly:  0.8925689
+Cosine similarity between engrossing and monopolies:  0.85600543
+Cosine similarity between engrossing and monopolise:  0.9330557
+Cosine similarity between engrossing and monopolising:  0.9007403
+Cosine similarity between engrossing and monopolizers:  0.88846636
+Cosine similarity between engrossing and monopolised:  0.954914
+Cosine similarity between engrossing and corruption:  0.7209386
+Cosine similarity between engrossing and corrupt:  0.8125796
+Cosine similarity between engrossing and corrupting:  0.8875114
+
+
+Cosine similarity between odious and monopoly:  0.78880244
+Cosine similarity between odious and monopolies:  0.8436086
+Cosine similarity between odious and monopolise:  0.92779535
+Cosine similarity between odious and monopolising:  0.9205425
+Cosine similarity between odious and monopolizers:  0.9433861
+Cosine similarity between odious and monopolised:  0.9195038
+Cosine similarity between odious and corruption:  0.8635113
+Cosine similarity between odious and corrupt:  0.9493854
+Cosine similarity between odious and corrupting:  0.97497785
+
+
+Cosine similarity between evil and monopoly:  0.66352564
+Cosine similarity between evil and monopolies:  0.7285359
+Cosine similarity between evil and monopolise:  0.7008611
+Cosine similarity between evil and monopolising:  0.7077035
+Cosine similarity between evil and monopolizers:  0.75466317
+Cosine similarity between evil and monopolised:  0.71063197
+Cosine similarity between evil and corruption:  0.8182875
+Cosine similarity between evil and corrupt:  0.8260678
+Cosine similarity between evil and corrupting:  0.8051514
+
+
+Cosine similarity between repugnant and monopoly:  0.82131207
+Cosine similarity between repugnant and monopolies:  0.88639885
+Cosine similarity between repugnant and monopolise:  0.93447375
+Cosine similarity between repugnant and monopolising:  0.8547069
+Cosine similarity between repugnant and monopolizers:  0.92215055
+Cosine similarity between repugnant and monopolised:  0.91690487
+Cosine similarity between repugnant and corruption:  0.8641528
+Cosine similarity between repugnant and corrupt:  0.9394476
+Cosine similarity between repugnant and corrupting:  0.9594015
+
+
+Cosine similarity between arbitrary and monopoly:  0.7448293
+Cosine similarity between arbitrary and monopolies:  0.8180909
+Cosine similarity between arbitrary and monopolise:  0.8159066
+Cosine similarity between arbitrary and monopolising:  0.7006544
+Cosine similarity between arbitrary and monopolizers:  0.80032057
+Cosine similarity between arbitrary and monopolised:  0.80540997
+Cosine similarity between arbitrary and corruption:  0.8205616
+Cosine similarity between arbitrary and corrupt:  0.86029494
+Cosine similarity between arbitrary and corrupting:  0.85754853
+
+
+Cosine similarity between popery and monopoly:  0.6186289
+Cosine similarity between popery and monopolies:  0.78039056
+Cosine similarity between popery and monopolise:  0.6819302
+Cosine similarity between popery and monopolising:  0.6232394
+Cosine similarity between popery and monopolizers:  0.7199919
+Cosine similarity between popery and monopolised:  0.662189
+Cosine similarity between popery and corruption:  0.8032957
+Cosine similarity between popery and corrupt:  0.82087946
+Cosine similarity between popery and corrupting:  0.7778636
+
+
+Cosine similarity between papist and monopoly:  0.5727573
+Cosine similarity between papist and monopolies:  0.74284136
+Cosine similarity between papist and monopolise:  0.7660107
+Cosine similarity between papist and monopolising:  0.6104313
+Cosine similarity between papist and monopolizers:  0.7678872
+Cosine similarity between papist and monopolised:  0.69733894
+Cosine similarity between papist and corruption:  0.7527053
+Cosine similarity between papist and corrupt:  0.8603616
+Cosine similarity between papist and corrupting:  0.8206681
+
+
+Cosine similarity between bribery and monopoly:  0.6835378
+Cosine similarity between bribery and monopolies:  0.7272022
+Cosine similarity between bribery and monopolise:  0.9381029
+Cosine similarity between bribery and monopolising:  0.91756725
+Cosine similarity between bribery and monopolizers:  0.97518873
+Cosine similarity between bribery and monopolised:  0.8759557
+Cosine similarity between bribery and corruption:  0.8763628
+Cosine similarity between bribery and corrupt:  0.9573516
+Cosine similarity between bribery and corrupting:  0.96709377
+
+
+Cosine similarity between remedies and monopoly:  0.6162759
+Cosine similarity between remedies and monopolies:  0.7306758
+Cosine similarity between remedies and monopolise:  0.7782537
+Cosine similarity between remedies and monopolising:  0.7287354
+Cosine similarity between remedies and monopolizers:  0.8311146
+Cosine similarity between remedies and monopolised:  0.7103704
+Cosine similarity between remedies and corruption:  0.9373606
+Cosine similarity between remedies and corrupt:  0.90739757
+Cosine similarity between remedies and corrupting:  0.8577507
+
+
+Cosine similarity between remedy and monopoly:  0.7870988
+Cosine similarity between remedy and monopolies:  0.81290513
+Cosine similarity between remedy and monopolise:  0.8234482
+Cosine similarity between remedy and monopolising:  0.77357984
+Cosine similarity between remedy and monopolizers:  0.8103749
+Cosine similarity between remedy and monopolised:  0.8131714
+Cosine similarity between remedy and corruption:  0.8166301
+Cosine similarity between remedy and corrupt:  0.8237644
+Cosine similarity between remedy and corrupting:  0.83428186
+
+
+Cosine similarity between monopoly_evils and monopoly:  0.73975325
+Cosine similarity between monopoly_evils and monopolies:  0.80338216
+Cosine similarity between monopoly_evils and monopolise:  0.9452351
+Cosine similarity between monopoly_evils and monopolising:  0.8941084
+Cosine similarity between monopoly_evils and monopolizers:  0.9702353
+Cosine similarity between monopoly_evils and monopolised:  0.8855179
+Cosine similarity between monopoly_evils and corruption:  0.9000345
+Cosine similarity between monopoly_evils and corrupt:  0.97411305
+Cosine similarity between monopoly_evils and corrupting:  0.9790802
+
+
+Cosine similarity between circulation and monopoly:  0.7311739
+Cosine similarity between circulation and monopolies:  0.7107564
+Cosine similarity between circulation and monopolise:  0.8690125
+Cosine similarity between circulation and monopolising:  0.87775296
+Cosine similarity between circulation and monopolizers:  0.9021274
+Cosine similarity between circulation and monopolised:  0.83622867
+Cosine similarity between circulation and corruption:  0.9424954
+Cosine similarity between circulation and corrupt:  0.90036476
+Cosine similarity between circulation and corrupting:  0.89823544
+
+
+Cosine similarity between disease and monopoly:  0.56708187
+Cosine similarity between disease and monopolies:  0.6421479
+Cosine similarity between disease and monopolise:  0.75377774
+Cosine similarity between disease and monopolising:  0.77097696
+Cosine similarity between disease and monopolizers:  0.8492292
+Cosine similarity between disease and monopolised:  0.6933195
+Cosine similarity between disease and corruption:  0.9631496
+Cosine similarity between disease and corrupt:  0.90606946
+Cosine similarity between disease and corrupting:  0.8558254
+
+
+Cosine similarity between wasting and monopoly:  0.71185666
+Cosine similarity between wasting and monopolies:  0.71668005
+Cosine similarity between wasting and monopolise:  0.91461426
+Cosine similarity between wasting and monopolising:  0.92970115
+Cosine similarity between wasting and monopolizers:  0.9641283
+Cosine similarity between wasting and monopolised:  0.8696301
+Cosine similarity between wasting and corruption:  0.9357008
+Cosine similarity between wasting and corrupt:  0.94411683
+Cosine similarity between wasting and corrupting:  0.95319414
+
+
+Cosine similarity between waste and monopoly:  0.5750951
+Cosine similarity between waste and monopolies:  0.57347924
+Cosine similarity between waste and monopolise:  0.84530747
+Cosine similarity between waste and monopolising:  0.8876456
+Cosine similarity between waste and monopolizers:  0.9234259
+Cosine similarity between waste and monopolised:  0.7810733
+Cosine similarity between waste and corruption:  0.9154675
+Cosine similarity between waste and corrupt:  0.8890537
+Cosine similarity between waste and corrupting:  0.8875281
+
+
