@@ -1,9 +1,8 @@
 ('no author', 41)
-('pollexfen henry sir, 6)
+('pollexfen henry sir', 6)
+('cary john', 6)
 ('east india company', 4)
-('cary john ', 4)
 ('seller john fl -', 3)
-
 
 ('warwick philip sir -', 2)
 ('verax philanax', 2)
@@ -20,17 +19,15 @@
 ('hill joseph -', 2)
 ("england court of king's bench", 2)
 ('england and wales privy council', 2)
-('dellon gabriel b ', 2)
 ('chamberlain hugh', 2)
-('cary john', 2)
 ('briscoe john fl ', 2)
-
-
 ('t s thomas smith', 1)
+
+
 ('puckle james -', 1)
 ("france conseil 'etat", 1)
 ('england and wales parliament house of commons', 1)
-('davison thomas b or ', 1)
+('dellon gabriel b ', 2)
 ('clavell robert ', 1)
 ('callable robert ', 1)
 ('beaumont th cent', 1)
