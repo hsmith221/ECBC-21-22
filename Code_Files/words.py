@@ -13,7 +13,7 @@ def remove_stopwords(data):
                     'may','made','much','one','mr','how','like','full','one',
                     'two','three','four','five','day','say','thou','make',
                     'done','do','have','well','know','heard','hear',
-                    'saying','come','never','time','think','came','till','might',
+                    'saying','come','time','think','came','till','might',
                     'could','begin','began','took','went','last','matter','seeing',
                     'go','many','few','see','take','found','without','little','long',
                     'put','brought','bring','another','th','aforesaid','old',
@@ -27,7 +27,10 @@ def remove_stopwords(data):
                     'ps','six','ent','mr','inits','ee','ay','mut','almost',
                     'concerning','ey','vol','near','since','always','sed',
                     'hereby','otherwise','otherwie','rrying','inasmuch','includes',
-                    'char','usto','eems','inamuch','thereby'])
+                    'char','usto','eems','inamuch','thereby','cannot','either',
+                    'themelves','themselves','ever','unless','nati','oftner','caewe',
+                    'eaing','les','get','oon','thither','pas','likewie',
+                    'likewise','hove','set','mentioned','ettling'])
     
     return [[word for word in simple_preprocess(str(doc))
             if word not in stop_words] for doc in data]
