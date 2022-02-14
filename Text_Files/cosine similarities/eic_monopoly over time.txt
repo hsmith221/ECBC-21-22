@@ -1,0 +1,75 @@
+1672
+monopolising: ail name_fretum possessed cochinchina juridiction idle chili discovery_north venetian maintained piety monarchs siege ingratitude forty
+The most similar n-gram has cosine distance 0.9985940456390381
+
+1676
+monopoly: vain resolved intance saith tenants destroy fires subject general_hurt reduced accept complaints jealousies something serve
+The most similar n-gram has cosine distance 0.9980512261390686
+monopolies: major beginning morrow trafficking acting apt quit pleaed admonitions led preented represented quality worcestershire governor_company
+The most similar n-gram has cosine distance 0.9986730217933655
+
+1682
+monopoly: lord_coke defendant erecting perians jews abdull_gunny topping mercator plays francis_snape member samuel_pots retraints turner immunities
+The most similar n-gram has cosine distance 0.3191932737827301
+monopolies: hinder enriching industry grown past sum wages vast species hinderance happens preerve neighbouring_countries rest possibly
+The most similar n-gram has cosine distance 0.9978364706039429
+monopolising: gombroon syam betwixt shown mercator battan extend_prejudicial declares fortified merchants_london recital extract_letter honourable_governor judicial_allowance smarmy
+The most similar n-gram has cosine distance 0.27481040358543396
+monopolizers: alien unlawful commiary brownlow stephen_elliot politic_capacity southward regulating restraints moletation obstruct maintain_action chittuah aboard_ship oriental_indiam
+The most similar n-gram has cosine distance 0.3304332196712494
+
+1689
+monopoly: absolutely partake suitable settlement grievance proposal grafted settling fifthly extensive tend fundamental etablihing_new right_subject privilege
+The most similar n-gram has cosine distance 0.9950240254402161
+monopolise: monopolised settle combination consequence totally engross acquisitions distribution fifthly lasting important_trade conclusion right_thereto fell nominal_stock
+The most similar n-gram has cosine distance 0.9984102845191956
+monopolising: fell engross monsieur necessity blamed impositions enriching intelligence bargain ad temptation intolerable baltic_sea marriages pent
+The most similar n-gram has cosine distance 0.998075544834137
+monopolised: monopolise settle check combination totally endanger hinted nominal_stock securing engross lasting distribution negotiated several_ports fell
+The most similar n-gram has cosine distance 0.9984102845191956
+
+1691
+monopoly: livelihood quest consuming mischiefs trade_merchandise restraining preface_book armenians supposing profitable_trade india_manufactures growth dependants gained atisfaction
+The most similar n-gram has cosine distance 0.9986294507980347
+monopolies: import growths promote protestant woollen danger useful enrich furnish great_measure defend manufacturers instead attempt america
+The most similar n-gram has cosine distance 0.9983295202255249
+
+1693
+monopoly: restrictions colour procured loose proposed forts_castles joynt selling industry_ingenuity christendom majesties_subjects fines_amerciaments excessive soever patents_bearing
+The most similar n-gram has cosine distance 0.9991410374641418
+monopolies: hoped private_merchants consider doubtless beneficial easy considering placed declined taxed question particular_men rea governments freely
+The most similar n-gram has cosine distance 0.9989264011383057
+
+1695
+monopolies: lawfully circuit_year increases reasonableness dealing traffic_intercourse acquiring devise viible substance dearth thin projects_improvement arising first_sight
+The most similar n-gram has cosine distance 0.9976038932800293
+
+1696
+monopoly: sole_trade practised foundation example appears practice best statute increae consider prove allowed convenience books ueful
+The most similar n-gram has cosine distance 0.9965003132820129
+monopolies: statute proviso common_law bodies_politic sole_buying provio engrossing excluding_others conceive whole_buying corporations members contrary methods foundation
+The most similar n-gram has cosine distance 0.9967134594917297
+monopolise: expedient preservation alterations weavers shown ere suspected contraction counel detructive raie_money confuion artificial suspicion unlawful
+The most similar n-gram has cosine distance 0.9984474182128906
+monopolising: increase_riches differ merchandising increasing supposed contraction dividends turkey_trade decrease sole_using ships_seamen increaing circumstances hinderance accident
+The most similar n-gram has cosine distance 0.9985718727111816
+monopolizers: tock competent ioynt committee decay engrossed duly omitted requisite etablihed woollen_goods manufactured_goods fairs factors_servants enlarging
+The most similar n-gram has cosine distance 0.99738609790802
+
+1697
+monopoly: promote cot cost great_quantities turkey_italian trade_profitable spices profitable_trade gains_nation probable bought undone lose total persian_silks
+The most similar n-gram has cosine distance 0.9992161393165588
+
+1698
+monopoly: matters enjoy seems degree preserve sole african crimes prejudice fit confirm necessary vast damage payment
+The most similar n-gram has cosine distance 0.999068558216095
+
+1699
+monopoly: knew dangerous weaver prevail ans easy stop ought_taken attempt circumstances complaints ret instances acquainted hardly
+The most similar n-gram has cosine distance 0.9982397556304932
+
+1700
+monopoly: norfolk maximilian undue really_believe usually offering subscribe sudden unwilling aembly solid propose meetings special receiv
+The most similar n-gram has cosine distance 0.9978777766227722
+monopolies: sole pounds_fathom aitance afe apt preservation ait perfect pretty ingle jut oder increasing herring objected
+The most similar n-gram has cosine distance 0.9982763528823853

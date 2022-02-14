@@ -1,0 +1,205 @@
+1660
+consumed: regiment_guards knife surrounded_besieged exhibited draw intent seize enforced enter_ports afterword lest speed directly defend village
+The most similar n-gram has cosine distance 0.9977265000343323
+
+1664
+consumption: chap self several nation english low age dignities families interest show apparel example soon sort
+The most similar n-gram has cosine distance 0.9982805848121643
+consume: rest power military amongst mother whose plain reason death poor wear give bear royal according
+The most similar n-gram has cosine distance 0.9985895752906799
+consumed: oaths nature neither sense hand plain families age labour self third bearing nothing earth mean
+The most similar n-gram has cosine distance 0.9973636865615845
+conumption: black art given expenses rest law rich bloody war gave people bear arts proper bears
+The most similar n-gram has cosine distance 0.9959494471549988
+conume: nation ten kings reason known interest nature ancestors several self signify persons foal men proper
+The most similar n-gram has cosine distance 0.9985882639884949
+conuming: denoting besides romans places allow modes pales numbers earl receive education nothing natural battle man
+The most similar n-gram has cosine distance 0.9843589067459106
+conumed: finite robert_digbey exprely deerves willing arrians external stuffs comfortably bloody_maacre whore_babylon erved antichristian excommunication jutifie
+The most similar n-gram has cosine distance 0.41018912196159363
+
+1666
+consume: lachrymae lombardy novigrad people_rude secures lies_open weakness formed father_death bacon orderly dignities carinthia enslaved attempt
+The most similar n-gram has cosine distance 0.31724461913108826
+
+1672
+conume: accommodated accompanied sailed poiled led sooner inconvenience terror surprised presently solomons repent brother_dead spent drank
+The most similar n-gram has cosine distance 0.9952420592308044
+
+1676
+consumption: dover destroy convinced fraudulent_conveyance sore chest business aith chet_cloth east_indies affixed noise bravely beginnings choose
+The most similar n-gram has cosine distance 0.9982615113258362
+consumed: sums_money contitution original marquess cook moneys_borrowed sides referred voluntary behind popular pence affair christ_church weave
+The most similar n-gram has cosine distance 0.9981750249862671
+conumption: treasure wheel forest_deane promote save administer christ_church seems presently east_indies sleds rooms grandfather suit bishop
+The most similar n-gram has cosine distance 0.9982829093933105
+conume: neighbour baletting_box morning ordered major minding westminster accident suffer_self drink heat pulled conceive represented pays
+The most similar n-gram has cosine distance 0.9916115999221802
+conumed: sides lot profession thousand daughter ending assignment administrator neighbours carriage cost counties_named sister deceased rise
+The most similar n-gram has cosine distance 0.9982095956802368
+
+1677
+consumption: spent englih_merchant fourths exporting gotten tin setting transport turn salt foreign_trades fact carried_france trangers manufacturers
+The most similar n-gram has cosine distance 0.9988711476325989
+consume: volumes advanced exports vent uffer trademen impossible mens intruments expend beg safety management esteem move
+The most similar n-gram has cosine distance 0.9988475441932678
+consumed: englih_merchant fourths trangers broad selling raise buying spend spaniards holes product_manufacture vie englih_men adjacent brandy
+The most similar n-gram has cosine distance 0.9989938735961914
+conumption: transport altogether privately conumed large_quantities halifax carried_france cor lead acceptable hence upplied former_times work_cheaper furnih
+The most similar n-gram has cosine distance 0.9986331462860107
+conume: spend raise industry rectify hither easily vast greatet englih_men vent still paper conequently providence conidering
+The most similar n-gram has cosine distance 0.9988805055618286
+conumed: fourths return markets treble acceptable furnih uually hot parts_world vended hence privately usually shipped river
+The most similar n-gram has cosine distance 0.9989578127861023
+
+1680
+consumption: greater littleton opportunity article mean manufactures grants former total kept nations happened eat hither severe
+The most similar n-gram has cosine distance 0.9984444975852966
+
+1681
+consumed: finely gift marriages comes_hundred alleys simon express_mention births survey temporal_lords reaon_cacao fixed_feasts entombed makers proviion_enough
+The most similar n-gram has cosine distance 0.34600967168807983
+conumed: freely_quietly obtaining_title fear_thunder shoe enacting tract repasts fiherman howling defending hortet_min excellent_fruits portland_stone patowmeck tranplant
+The most similar n-gram has cosine distance 0.3435920774936676
+
+1682
+consumption: purchae unprofitable carried_foreign purchase best scarcity abolutely_neceary absolutely_necessary eteemed germany prices wages returns purchaing spain
+The most similar n-gram has cosine distance 0.998513400554657
+consumed: enabled sort conequently transport pilfering linen goods_rise support consequently discharge heads conumed clipped_money preerve staple_commodities
+The most similar n-gram has cosine distance 0.9985004663467407
+conumption: late_years otherways carried_foreign cheap consumption unprofitable exporting eteemed spain caes careful employing enrich prodigal working
+The most similar n-gram has cosine distance 0.9982736706733704
+conumed: altering ometimes respect linen consumed owing advancing_coin supplied preserve conveniences elsewhere tranport gives measure esteemed
+The most similar n-gram has cosine distance 0.9983633160591125
+
+1683
+consumed: eminent act concluded punishment fetch almot amongst epacius round betakes pick naked twice mall revenged
+The most similar n-gram has cosine distance 0.9974969625473022
+conumed: case gentlemen affront haman meet voyage project mere effect reolution means heap deny least rye
+The most similar n-gram has cosine distance 0.9974216818809509
+
+1689
+consumption: hinder conumption_wool great_quantities manufacture employs consumption_wool baits conumption clothiers woollen_manufactures conumption_englih promoted manufactured_silks price_wool growth
+The most similar n-gram has cosine distance 0.9957318305969238
+consume: buying consumed spanish workers raw consequently antharines hindered weavers wrought_silks hair_stuffs buyer markets generally_worn materials
+The most similar n-gram has cosine distance 0.9979172348976135
+consumed: buyer buying wrought_silks proves increaed remoteness mines sorts yard tranporting seal buyer_seller treaty east miserable
+The most similar n-gram has cosine distance 0.9984245896339417
+conumption: turkey consumption conumption_wool wear clothiers price englih_wool clothes baits hinder manufactured_silks stuffs conumption_englih promoted leen
+The most similar n-gram has cosine distance 0.9935538172721863
+conume: undeniable wear_silk raw workers manufacturing buyers countenance irih beyond_sea ued buying hair_stuffs paris statutes bears
+The most similar n-gram has cosine distance 0.9977636337280273
+conumed: hair_stuffs consumed seas indies weight wrought_silks exclude consume buyer_seller buying hinders spanish market spanih cor
+The most similar n-gram has cosine distance 0.9975787401199341
+
+1691
+consumption: depopulation thousands respect import consumed india_manufactures opportunity america beat exact contend silks_stuffs raw_unpurged factory livelihood
+The most similar n-gram has cosine distance 0.9983787536621094
+consume: fond treat endeavours relief industrious eay coniderably prospect exceeds st_george double thirty differ curioity points
+The most similar n-gram has cosine distance 0.998512864112854
+consuming: possible undoubtedly infinite gained atisfaction dependants prohibit_wearing monopoly advisable author_essay restraining increased scandal richer invited
+The most similar n-gram has cosine distance 0.99869704246521
+consumed: furnih consuming ued inclin beat furnish throughout wealth foreign_protestants growths wanting import shame greater_quantity monarchies
+The most similar n-gram has cosine distance 0.9984953999519348
+
+1693
+consumption: spice furnish supplies south_sea raised soever calico vast besides laden dutch_east greater_number propositions hindered eighty
+The most similar n-gram has cosine distance 0.9992055892944336
+conumption: accounts upply convinc drive_trade principle natives improvements carce profitable spice_trade adding beg_leave lie foreigners trade_drove
+The most similar n-gram has cosine distance 0.9990455508232117
+
+1694
+consumption: growths conumption fishery grievance english_merchant memory mighty degree rank beget miseries improvements repasts degrees arts
+The most similar n-gram has cosine distance 0.9989320039749146
+conumption: scarcity fishery consumption riches_nation numerous growths degree degrees profits mall english_merchant grievance goodness luxury secure
+The most similar n-gram has cosine distance 0.9988722205162048
+
+1695
+consumption: enough_coining custom_use imagine intend denomination fore_fathers twill value_land law_cutom undue buying pounds_sterling pennyworth pleases tranported
+The most similar n-gram has cosine distance 0.9979057908058167
+consume: principally michief utter twill competent spread_wider shipp hou diminih neceity intercoure honestly stock_treasure ueful infer
+The most similar n-gram has cosine distance 0.9971925616264343
+conumption: best_advantage building_busses fresh importing commit production cutom_free contented poibly freed freh thinking bear_burden fancies tillage
+The most similar n-gram has cosine distance 0.998012900352478
+conume: loses devise consolation bais bondage perils recoure increases profeion surely communication coin_manufactur acquiring proverb contriver
+The most similar n-gram has cosine distance 0.9981755614280701
+
+1696
+consumption: manufacturing consequently buy_goods great_quantities raise enable imports selling price_goods spent importing conequently lead furnih coin_bullion
+The most similar n-gram has cosine distance 0.9986879825592041
+consume: conume thrive pend whatsoever provision insufficient certainty spend confuion gets preventing vatly presumed depended ineffectual
+The most similar n-gram has cosine distance 0.9986818432807922
+consuming: plays standing obviated suspected exclusive_others lessen suspicion mended ecured reasonably shown thought_fit rents_lands general_rule foregoing
+The most similar n-gram has cosine distance 0.99845290184021
+consumed: buy_cheap sellers tuns arising manufactury transported transported_foreign multiplicity_buyers uses purchasing prices_india englih_merchant raiing_prices amount_thouand former_times
+The most similar n-gram has cosine distance 0.9986603856086731
+conumption: foreign_parts sale consumption foreign_markets foreign_countries imports ealing raise buyers buying_selling foreign_commodities spices manufacturing brings buy_goods
+The most similar n-gram has cosine distance 0.9982131123542786
+conume: consume prodigality pend gets thrive vatly education spend unthinking duties_paid undertanding loing improving kingdom_gets keepers
+The most similar n-gram has cosine distance 0.9986816048622131
+conuming: propoition tables envy intends cables inconsiderable woolen weigh buyer tax_penny digging exhausted impunity etled obviated
+The most similar n-gram has cosine distance 0.9982341527938843
+conumed: buying_ealing consumed product_manufacture goods_exported amount ale addition_stock vended gentry transported_foreign sellers multiplicity_sellers notion multiplicity_buyers tranported_foreign
+The most similar n-gram has cosine distance 0.9979554414749146
+
+1697
+consumption: pend linens value exportation woollen_goods computation nobility_gentry ave hinder lo manufactories half_trade conumed silk exports
+The most similar n-gram has cosine distance 0.9989644885063171
+consume: vast selling_cheap consumed_home enrich treasure uses increase raw farther_tells seldom carrying upply prohibit markets employments
+The most similar n-gram has cosine distance 0.9992905259132385
+consumed: turkey_italian coniderable serve uses neat_profit weaver object_want purchaed vvooll home_abroad promote sorts collective_body european_nations consumed_home
+The most similar n-gram has cosine distance 0.9994073510169983
+conumption: manufactured_goods exported trades half imported bullion profit wear silks_linens silks wool manufactories importation increae carry
+The most similar n-gram has cosine distance 0.9978582859039307
+conume: consume carrying_trade sales product markets selling_cheap quantities purchaed notions produce lose enrich spend promote increaing_trade
+The most similar n-gram has cosine distance 0.9990655183792114
+conuming: transported canterbury price_wool stuffs manufacturing uses encouraging plantations selling_cheap foreign_countries business pounds_profit pending manufactured increased
+The most similar n-gram has cosine distance 0.9988119006156921
+conumed: promote returns purchaed alamodes trade_profitable products_manufactures bet_way ell bringing_home prohibited monopoly consumed export great_quantities carrying
+The most similar n-gram has cosine distance 0.9992667436599731
+
+1698
+consume: instance charges march imagine servants bargain reasonable shown fraud ufficient cocoas settlements april pleased save
+The most similar n-gram has cosine distance 0.9980735182762146
+consumed: longer preerve something tigers attend islands fit supply september tenth substance request wild eat_indies drawn
+The most similar n-gram has cosine distance 0.9988694190979004
+conume: southern precious anglie pleaded coming minds epicop der anwered mount_eli grammar senior_fellows avid ignorant agreeable
+The most similar n-gram has cosine distance 0.987615704536438
+conumed: cor ort saw pleaure charity impossible seniors painter seldom trunk prevented frequently clear choice fruits
+The most similar n-gram has cosine distance 0.998167872428894
+
+1699
+consumption: conumption foreign_commodities expense especially manufactured countries obj european profitable traffic wear advantageous prejudicial creature materials
+The most similar n-gram has cosine distance 0.9977158904075623
+consume: conume indutry ur serve mean preerve gone working beggars price_wool tend save particular_men landed_men prices
+The most similar n-gram has cosine distance 0.99879390001297
+consuming: additions multiplying_people scarce lasting preserved flourishing decrease distinguish contradiction lating_durable marks_signs buildings_ought carce demonstration conuming
+The most similar n-gram has cosine distance 0.9987978935241699
+consumed: conumed soon amends durable quantities annually coin_bullion sending room procured uually addition_wealth ending exportations ince_year
+The most similar n-gram has cosine distance 0.995712399482727
+consumers: supported preerved conclusion prefer base needles aurance climate practical reasoning imagined necessaries reaoning hamburghers propositions
+The most similar n-gram has cosine distance 0.9984714984893799
+conumption: consumption foreign_commodities manufactured countries expense especially products materials creature european buy obj send manufactured_goods advantageous
+The most similar n-gram has cosine distance 0.997715950012207
+conume: consume indutry working ur serve landed_men preference carve foreign_markets destruction luxury encreae improvements almot preerve
+The most similar n-gram has cosine distance 0.9987940192222595
+conuming: grown carcity consuming frugality inquiries domestic millions_gotten neceary_defence eteemed_addition ditinguih becomes grow_poor lating_durable reference deerve
+The most similar n-gram has cosine distance 0.9985796213150024
+conumed: consumed quantities durable purchae soon amends purchase bulk ince_year returns coin_bullion worth room trades_carried exports
+The most similar n-gram has cosine distance 0.9957123398780823
+conumers: raw obvious fringes turns rendered cou objected throters avid silks_bengals upplyed furnih dicouraged strip utter
+The most similar n-gram has cosine distance 0.9984566569328308
+
+1700
+consumption: manufactury spices prodigious vat_quantities wares brings growth indian send bruges norway decay foreign_markets furnish conumption
+The most similar n-gram has cosine distance 0.9988974928855896
+consume: great_measure finest greater_quantities tranport important incredible lower_germany spanish english_dutch home_consumption linen_drapers conume exportation_linen amsterdam increases
+The most similar n-gram has cosine distance 0.9992213249206543
+consumed: raied hemp amsterdam wheat_grain top wearing_east greater_quantities calicoes_england worsted prussia parts_europe immene consume glazing vast_quantity
+The most similar n-gram has cosine distance 0.9990168213844299
+conumption: furnih printing vessels wearing bought foreign_commodities muscovy extended danzig prodigious quantities french_italians vast_quantities quantity whence
+The most similar n-gram has cosine distance 0.9989309906959534
+conume: chief_commodities prussia masts oak several_sorts consume harlem steel raied pomerania malaga ettled conumed hemp transport
+The most similar n-gram has cosine distance 0.9990777969360352
+conumed: several_sorts russia_leather silver_lead englih_dutch prussia pomerania leen harlem smelting_refining ready_money galleons coasts conume coarse lower_germany
+The most similar n-gram has cosine distance 0.9990805983543396
